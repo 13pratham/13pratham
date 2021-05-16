@@ -1,5 +1,4 @@
 # House Price Prediction
-# Puchase-Sentiment-Analysis
 Donwload the project and run the .ipynb file in the jupyter notebook.
 For project to run successful you need to have python3 installed in your system.
 You also need some libraries - pandas, numpy, scikit-learn, etc.
